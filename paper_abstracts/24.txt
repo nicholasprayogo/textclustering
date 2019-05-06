@@ -1,0 +1,12 @@
+Techniques to predictively respond to user requests using natural language processing
+Inventors
+Jason E Weston, Antoine Bordes, Alexandre Lebrun, Martin Jean Raison
+Publication date
+2017/9/28
+Patent office
+US
+Application number
+15077814
+Description
+Techniques to predictively respond to user requests using natural language processing are described. In one embodiment, an apparatus may comprise a client communication component operative to receive a user service request from a user client; an interaction processing component operative to submit the user service request to a memory-based natural language processing component; generate a series of user interaction exchanges with the user client based on output from the memory-based natural language processing component, wherein the series of user interaction exchanges are represented in a memory component of the memory-based natural language processing component; and receive one or more operator instructions for the performance of the user service request from the memory-based natural language processing component; and a user interface component operative to display the one or …
+Natural Language Processing: The Brain Way

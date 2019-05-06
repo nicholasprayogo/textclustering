@@ -1,0 +1,19 @@
+Probabilistic models of language processing and acquisition
+Authors
+Nick Chater, Christopher D Manning
+Publication date
+2006/7/1
+Source
+Trends in cognitive sciences
+Volume
+10
+Issue
+7
+Pages
+335-344
+Publisher
+Elsevier Current Trends
+Description
+Probabilistic methods are providing new explanatory approaches to fundamental cognitive science questions of how humans structure, process and acquire language. This review examines probabilistic models defined over traditional symbolic structures. Language comprehension and production involve probabilistic inference in such models; and acquisition involves choosing the best model, given innate constraints and linguistic and other input. Probabilistic models can account for the learning and processing of language, while maintaining the sophistication of symbolic models. A recent burgeoning of theoretical developments and online corpus creation has enabled large models to be tested, revealing probabilistic constraints in processing, undermining acquisition arguments based on a perceived poverty of the stimulus, and suggesting fruitful links with probabilistic theories of categorization and ambiguity …
+[PDF] from berkeley.edu
+The unsupervised learning of natural language structure

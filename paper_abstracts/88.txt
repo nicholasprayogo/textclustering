@@ -1,0 +1,7 @@
+MP76-18 NATURAL LANGUAGE PROCESSING ALLOWS FOR ACCURATE AND AUTOMATED EXTRACTION OF DATA FROM PROSTATE BIOPSY PATHOLOGY REPORTS
+Authors:
+GregoryJoice*BrantCheeNatashaGuptaMichaelJohnson
+Abstract:
+Previous articleNext article
+INTRODUCTION AND OBJECTIVES
+Evaluation of prostate biopsy data is a critical aspect of prostate cancer research. Non-standardized formats and syntax in pathology reports make large-scale analyses challenging. Additionally, significant manpower and cost are needed to manually review electronic medical records. Natural language processing (NLP) allows for rapid and automated extraction of important data, but it is unclear how this compares to manual data extraction in accuracy and recall.

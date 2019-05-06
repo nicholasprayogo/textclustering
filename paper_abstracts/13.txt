@@ -1,0 +1,13 @@
+Presupposed content and entailments in natural language inference
+Authors
+David Clausen, Christopher D Manning
+Publication date
+2009/8/6
+Conference
+Proceedings of the 2009 Workshop on Applied Textual Inference
+Pages
+70-73
+Publisher
+Association for Computational Linguistics
+Description
+Previous work has presented an accurate natural logic model for natural language inference. Other work has demonstrated the effectiveness of computing presuppositions for solving natural language inference problems. We extend this work to create a system for correctly computing lexical presuppositions and their interactions within the natural logic framework. The combination allows our system to properly handle presupposition projection from the lexical to the sentential level while taking advantage of the accuracy and coverage of the natural logic system. To solve an inference problem, our system computes a sequence of edits from premise to hypothesis. For each edit the system computes an entailment relation and a presupposition entailment relation. The relations are then separately composed according to a syntactic tree and the semantic properties of its nodes. Presuppositions are projected based on the 

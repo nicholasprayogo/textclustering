@@ -1,0 +1,13 @@
+Supporting annotation layers for natural language processing
+Authors
+Preslav Nakov, Ariel Schwartz, Brian Wolf, Marti Hearst
+Publication date
+2005/6/25
+Conference
+Proceedings of the ACL 2005 on Interactive poster and demonstration sessions
+Pages
+65-68
+Publisher
+Association for Computational Linguistics
+Description
+We demonstrate a system for flexible querying against text that has been annotated with the results of NLP processing. The system supports self-overlapping and parallel layers, integration of syntactic and ontological hierarchies, flexibility in the format of returned results, and tight integration with SQL. We present a query language and its use on examples taken from the NLP literature.

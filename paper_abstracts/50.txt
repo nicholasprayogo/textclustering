@@ -1,0 +1,9 @@
+Integrating language and vision to generate natural language descriptions of videos in the wild
+Authors
+Jesse Thomason, Subhashini Venugopalan, Sergio Guadarrama, Kate Saenko, Raymond Mooney
+Publication date
+2014/8/23
+Publisher
+University of Texas at Austin Austin United States
+Description
+This paper integrates techniques in natural language processing and computer vision to improve recognition and description of entities and activities in real-world videos. We propose a strategy for generating textual descriptions of videos by using a factor graph to combine visual detections with language statistics. We use state-of-the-art visual recognition systems to obtain confidences on entities, activities, and scenes present in the video. Our factor graph model combines these detection confidences with probabilistic knowledge mined from text corpora to estimate the most likely subject, verb, object, and place. Results on YouTube videos show that our approach improves both the joint detection of these latent, diverse sentence components and the detection of some individual components when compared to using the vision system alone, as well as over a previous n-gram language-modeling approach. The joint detection allows us to automatically generate more accurate, richer sentential descriptions of videos with a wide array of possible content.

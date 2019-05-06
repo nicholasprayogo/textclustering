@@ -1,0 +1,3 @@
+Provider-specific quality measurement for ERCP using natural language processing
+Author links open overlay panelTimothy D.ImlerMD123StuartShermanMD12Thomas F.ImperialeMD1245HuipingXuPhD6FangqianOuyangMS6ChristopherBeesley3CharityHiltonBA3Gregory A.CotéMD
+Natural language processing (NLP) is an information retrieval technique that has been shown to accurately identify quality measures for colonoscopy. There are no systematic methods by which to track adherence to quality measures for ERCP, the highest risk endoscopic procedure widely used in practice. Our aim was to demonstrate the feasibility of using NLP to measure adherence to ERCP quality indicators across individual providers

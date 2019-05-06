@@ -1,0 +1,7 @@
+Automated Extraction of Semantic Legal Metadata using Natural Language Processing
+Authors:
+
+Author(s)
+Amin Sleimi ; Nicolas Sannier ; Mehrdad Sabetzadeh ; Lionel Briand ; John Dann
+Abstract:
+Semantic legal metadata provides information that helps with understanding and interpreting the meaning of legal provisions. Such metadata is important for the systematic analysis of legal requirements. [Objectives] Our work is motivated by two observations: (1) The existing requirements engineering (RE) literature does not provide a harmonized view on the semantic metadata types that are useful for legal requirements analysis. (2) Automated support for the extraction of semantic legal metadata is scarce, and further does not exploit the full potential of natural language processing (NLP). Our objective is to take steps toward addressing these limitations. [Methods] We review and reconcile the semantic legal metadata types proposed in RE. Subsequently, we conduct a qualitative study aimed at investigating how the identified metadata types can be extracted automatically. [Results and Conclusions] We propose (1) a harmonized conceptual model for the semantic metadata types pertinent to legal requirements analysis, and (2) automated extraction rules for these metadata types based on NLP. We evaluate the extraction rules through a case study. Our results indicate that the rules generate metadata annotations with high accuracy.

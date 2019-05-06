@@ -1,0 +1,15 @@
+An overview of empirical natural language processing
+Authors
+Eric Brill, Raymond J Mooney
+Publication date
+1997/12/15
+Journal
+AI magazine
+Volume
+18
+Issue
+4
+Pages
+13
+Description
+In recent years, there has been a resurgence in research on empirical methods in natural language processing. These methods employ learning techniques to automatically extract linguistic knowledge from natural language corpora rather than require the system developer to manually encode the requisite knowledge. The current special issue reviews recent research in empirical methods in speech recognition, syntactic parsing, semantic processing, information extraction, and machine translation. This article presents an introduction to the series of specialized articles on these topics and attempts to describe and explain the growing interest in using learning methods to aid the development of natural language processing systems.

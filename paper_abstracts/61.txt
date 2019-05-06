@@ -1,0 +1,9 @@
+Online Inference-Rule Learning from Natural-Language Extractions.
+Authors
+Sindhu Raghavan, Raymond J Mooney
+Publication date
+2013/7
+Conference
+AAAI Workshop: Statistical Relational Artificial Intelligence
+Description
+In this paper, we consider the problem of learning commonsense knowledge in the form of first-order rules from incomplete and noisy natural-language extractions produced by an off-the-shelf information extraction (IE) system. Much of the information conveyed in text must be inferred from what is explicitly stated since easily inferable facts are rarely mentioned. The proposed rule learner accounts for this phenomenon by learning rules in which the body of the rule contains relations that are usually explicitly stated, while the head employs a less-frequently mentioned relation that is easily inferred. The rule learner processes training examples in an online manner to allow it to scale to large text corpora. Furthermore, we propose a novel approach to weighting rules using a curated lexical ontology like WordNet. The learned rules along with their parameters are then used to infer implicit information using a Bayesian Logic Program. Experimental evaluation on a machine reading testbed demonstrates the efficacy of the proposed methods.

@@ -1,0 +1,15 @@
+Natural language processing
+Authors
+Dan Jurafsky, Christopher Manning
+Publication date
+2012
+Journal
+Instructor
+Volume
+212
+Issue
+998
+Pages
+3482
+Description
+Natural Language Processing (aka Computational Linguistics) is an inter-disciplinary field applying methodology of computer science and linguistics to the processing of natural languages (English, Chinese, Spanish, Japanese, etc.). Typical applications include:

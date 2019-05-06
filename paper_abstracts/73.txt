@@ -1,0 +1,5 @@
+Relating Natural Language and Visual Recognition
+Authors
+Marcus Rohrbach, Jacob Andreas, Trevor Darrell, Jiashi Feng, Lisa Anne Hendricks, Dan Klein, Ronghang Hu, Raymond Mooney, Anna Rohrbach, Kate Saenko, Bernt Schiele, Subhashini Venugopalan, Huazhe Xu
+Description
+In this poster we will relate and discuss several of our most recent efforts for “Closing the Loop Between Vision and Language”. In Section 1 we show how we can describe videos [6] and images [3] with natural language sentences (Vision? Language). In Section 2 we show how we ground phrases in images [4](Language? Vision). And finally, in Section 3, we discuss how compositional computation allows for effective question answering about images [1](Language & Vision? Language).

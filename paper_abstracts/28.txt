@@ -1,0 +1,17 @@
+Natural language learning
+Authors
+Eugene Charniak
+Publication date
+1995/9/1
+Journal
+ACM Computing Surveys (CSUR)
+Volume
+27
+Issue
+3
+Pages
+317-319
+Publisher
+ACM
+Description
+The branch of artificial intelligence dealing with natural language processing (NLP) has undergone a quiet revolution. Ten years ago AI NLP work could be characterized as knowledge-based in its orientation and hand-tooled in its methodology. Because I wish to characterize these as the “bad old days,” I pick on my own work, but virtually any piece of work from the time would do. Ten years ago I was, among other things, concerned with plan recognition in NLP. To take an example I used at the time, suppose you read

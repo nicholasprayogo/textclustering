@@ -1,0 +1,11 @@
+Active learning for natural language parsing and information extraction
+Authors
+Cynthia A Thompson, Mary Elaine Califf, Raymond J Mooney
+Publication date
+1999/6/27
+Conference
+ICML
+Pages
+406-414
+Description
+In natural language acquisition, it is di cult to gather the annotated data needed for supervised learning; however, unannotated data is fairly plentiful. Active learning methods attempt to select for annotation and training only the most informative examples, and therefore are potentially very useful in natural language applications. However, existing results for active learning have only considered standard classi cation tasks. To reduce annotation e ort while maintaining accuracy, we apply active learning to two non-classi cation tasks in natural language processing: semantic parsing and information extraction. We show that active learning can signi cantly reduce the number of annotated examples required to achieve a given level of performance for these complex tasks.

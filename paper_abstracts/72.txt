@@ -1,0 +1,11 @@
+Learning Indices for Conceptual Information Retrieval: An Application of Explanation-Based Learning in Natural Language Processing.
+Authors
+Raymond Mooney, Gerald DeJong
+Publication date
+1987/5
+Issue
+UILU-ENG-87-2230
+Publisher
+ILLINOIS UNIV AT URBANA COORDINATED SCIENCE LAB
+Description
+Robust natural language processing systems for conceptual information retrieval require a large number of schemata. For both practical and theoretical reasons, a system cannot be initially programmed with all the schemata it requires. It is therefore important for such a system to be able to learn new schemata automatically during its normal operation. This paper describes the ability of GENESIS, a prototype explanation-based learning system for narrative processing, to use the schemata it learns to index and retrieve specific past episodes. An example run is given which illustrates GENESIS's ability to index and retrieve instances of newly learned schemata.

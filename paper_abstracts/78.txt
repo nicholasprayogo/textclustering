@@ -1,0 +1,38 @@
+Natural Language Processing for Analyzing Disaster
+Recovery Trends Expressed in Large Text Corpora
+Lucy H. Lin
+Allen School
+University of Washington
+Seattle, USA
+lucylin@cs.washington.edu
+Scott B. Miles
+Human Centered Design & Eng.
+University of Washington
+Seattle, USA
+milessb@uw.edu
+Noah A. Smith
+Allen School, University of Washington;
+Allen Institute for Artificial Intelligence
+Seattle, USA
+nasmith@cs.washington.edu
+Abstract—We are developing a new natural language processing
+(NLP) method to facilitate analysis of text corpora that
+describe long-term recovery. The aim of the method is to allow
+users to measure the degree that user-specified propositions about
+potential issues are embodied within the corpora, serving as a
+proxy for the disaster recovery process. The presented method
+employs a statistical syntax-based semantic matching model and
+was trained on a standard, publicly available training dataset. We
+applied the NLP method to a news story corpus that describes
+the recovery of Christchurch, New Zealand after the 2010–2011
+Canterbury earthquake sequence. We used the model to compute
+semantic measurements of multiple potential recovery issues as
+expressed in the Christchurch news corpus that span 2011 to 2016.
+We evaluated method outputs through a user study involving
+twenty professional emergency managers. User study results show
+that the model can be effective when applied to a disaster-related
+news corpus. 85% of study participants were interested in a way
+to measure recovery issue propositions in news or other corpora.
+We are encouraged by the potential for future applications of our
+NLP method for after-action learning, recovery decision making,
+and disaster research

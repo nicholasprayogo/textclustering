@@ -1,0 +1,8 @@
+CS224n: Natural Language Processing with Deep Learning1
+Authors
+Christopher Manning, Richard Socher, Guillaume Genthial Fang, Rohit Mundra
+Publication date
+2017
+Description
+What’s so special about human (natural) language? Human language is a system specifically constructed to convey meaning, and is not produced by a physical manifestation of any kind. In that way, it is very different from vision or any other machine learning task. Natural language is a discrete/symbolic/categorical system
+Most words are just symbols for an extra-linguistic entity: the word is a signifier that maps to a signified (idea or thing). For instance, the word" rocket" refers to the concept of a rocket, and by extension can designate an instance of a rocket. There are some exceptions, when we use words and letters for expressive signaling, like in" Whooompaa". On top of this, the symbols of language can be encoded in several modalities: voice, gesture, writing, etc that are transmitted via continuous signals to the brain, which itself appears to encode things in a continuous manner.(A lot of work in philosophy of language and linguistics has been done to conceptualize human language and distinguish words from their references, meanings, etc. Among others, see works by Wittgenstein, Frege, Russell and Mill.)

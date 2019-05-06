@@ -1,0 +1,11 @@
+Towards understanding situated natural language
+Authors
+Antoine Bordes, Nicolas Usunier, Ronan Collobert, Jason Weston
+Publication date
+2010/3/31
+Conference
+Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics
+Pages
+65-72
+Description
+We present a general framework and learning algorithm for the task of concept labeling: each word in a given sentence has to be tagged with the unique physical entity (eg person, object or location) or abstract concept it refers to. Our method allows both world knowledge and linguistic information to be used during learning and prediction. We show experimentally that we can learn to use world knowledge to resolve ambiguities in language, such as word senses or reference resolution, without the use of handcrafted rules or features.

@@ -1,0 +1,13 @@
+Can Natural Language Processing Become Natural Language Coaching?
+Authors
+Marti A Hearst
+Publication date
+2015
+Journal
+Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)
+Volume
+1
+Pages
+1245-1252
+Description
+How we teach and learn is undergoing a revolution, due to changes in technology and connectivity. Education may be one of the best application areas for advanced NLP techniques, and NLP researchers have much to contribute to this problem, especially in the areas of learning to write, mastery learning, and peer learning. In this paper I consider what happens when we convert natural language processors into natural language coaches.

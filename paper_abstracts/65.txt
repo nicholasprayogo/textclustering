@@ -1,0 +1,9 @@
+Efficient Markov Logic Inference for Natural Language Semantics.
+Authors
+Islam Beltagy, Raymond J Mooney
+Publication date
+2014/1/1
+Conference
+AAAI Workshop: Statistical Relational Artificial Intelligence
+Description
+Using Markov logic to integrate logical and distributional information in natural-language semantics results in complex inference problems involving long, complicated formulae. Current inference methods for Markov logic are ineffective on such problems. To address this problem, we propose a new inference algorithm based on SampleSearch that computes probabilities of complete formulae rather than ground atoms. We also introduce a modified closed-world assumption that significantly reduces the size of the ground network, thereby making inference feasible. Our approach is evaluated on the recognizing textual entailment task, and experiments demonstrate its dramatic impact on the efficiency of inference

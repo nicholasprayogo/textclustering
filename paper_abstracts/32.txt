@@ -1,0 +1,14 @@
+Probabilistic Approaches to Natural Language
+Authors
+Robert Goldman, E CHARNIAK, WA GALE, P NORVIG
+Publication date
+2005
+Journal
+Abstract, AAAI Fall Symposium, Technical Report FS-92-04, The AAAI Press, http://www. aaai. org/Press/Reports/Symposia/Fall/fs-92-04. html, last accessed Jul
+Volume
+21
+Pages
+3
+Description
+Recently there has been a resurgence of interest in probabilistic methods in AI, spurred by technical developments which have made these methods more practical. Bayesian and decision-theoretic approaches have been facilitated by the development of graphical representations such as belief (or Bayesian) networks, and influence diagrams. Learning approaches have been promoted by new developments in statistical learning (particularly hidden Markov models). These methods all offer hopes to address problems of brittleness and knowledge representation in natural language processing. Each has its own special strengths, however. Bayesian approaches have a clear conceptual framework and powerful representations, but must still be knowledge-engineered, rather than trained. Hidden Markov models have a clear conceptual framework and the ability to learn, but structure must be given, and the model is weak.
+This symposium brought together researchers applying both of these probabilistic methods in order to share perspectives. The discussion emphasized reviews of the current state of the art and views of the most promising lines of research, including novel applications of statistical and Bayesian techniques, systems which add more complicated knowledge representations to statistical methods or adaptive Bayesian methods, and research where Bayesian and statistical methods are used to solve foundational issues in knowledge representation, natural language semantics and acquisition of semantic representations.

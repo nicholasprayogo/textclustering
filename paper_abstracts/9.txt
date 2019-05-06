@@ -1,0 +1,19 @@
+Learning to rank for information retrieval and natural language processing
+Authors
+Hang Li
+Publication date
+2014/10/2
+Journal
+Synthesis Lectures on Human Language Technologies
+Volume
+7
+Issue
+3
+Pages
+1-121
+Publisher
+Morgan & Claypool Publishers
+Description
+Download Free Sample
+Learning to rank refers to machine learning techniques for training a model in a ranking task. Learning to rank is useful for many applications in information retrieval, natural language processing, and data mining. Intensive studies have been conducted on its problems recently, and significant progress has been made. This lecture gives an introduction to the area including the fundamental problems, major approaches, theories, applications, and future work.
+The author begins by showing that various ranking problems in information retrieval and natural language processing can be formalized as two basic ranking tasks, namely ranking creation (or simply ranking) and ranking aggregation. In ranking creation, given a request, one wants to generate a ranking list of offerings based on the features derived from the request and the offerings. In ranking aggregation, given a request, as well …

@@ -1,0 +1,11 @@
+Visualizing and exploring natural-language text
+Inventors
+Liang Gou, Zhichao Hu, Benny Kimelfeld, Yunyao Li, Huahai Yang
+Publication date
+2017/7/6
+Patent office
+US
+Application number
+14984883
+Description
+An embodiment provides methods and arrangements for visualizing and exploring natural-language text. In an embodiment, natural language text is received, and this is parsed to form a directed graph comprising a plurality of nodes. The directed graph is converted to an outline graph comprising core nodes and layer nodes. The outline graph is simplified, and there is created, for display on a user interface, an interactive visual representation of the simplified outline graph. Other variants and embodiments are broadly contemplated herein.

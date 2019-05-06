@@ -1,0 +1,5 @@
+Using natural language processing for identification of herpes zoster ophthalmicus cases to support population-based study
+Authors:
+Chengyi Zheng PhD  Yi Luo MS  Cheryl Mercado MPH  Lina Sy MPH Steven J Jacobsen MD PhD  Brad Ackerson MD  Bruno Lewin MD  Hung Fu Tseng PhD
+Abstract:
+Diagnosis codes are inadequate for accurately identifying herpes zoster (HZ) ophthalmicus (HZO). There is significant lack of population-based studies on HZO due to the high expense of manual review of medical records.

@@ -1,0 +1,13 @@
+Apples to oranges: Evaluating image annotations from natural language processing systems
+Authors
+Rebecca Mason, Eugene Charniak
+Publication date
+2012/6/3
+Conference
+Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies
+Pages
+172-181
+Publisher
+Association for Computational Linguistics
+Description
+We examine evaluation methods for systems that automatically annotate images using co-occurring text. We compare previous datasets for this task using a series of baseline measures inspired by those used in information retrieval, computer vision, and extractive summarization. Some of our baselines match or exceed the best published scores for those datasets. These results illuminate incorrect assumptions and improper practices regarding preprocessing, evaluation metrics, and the collection of gold image annotations. We conclude with a list of recommended practices for future research combining language and vision processing techniques.

@@ -1,0 +1,17 @@
+Learning to transform natural to formal languages
+Authors
+Rohit J Kate, Yuk Wah Wong, Raymond J Mooney
+Publication date
+2005/7/9
+Journal
+Proceedings of the National Conference on Artificial Intelligence
+Volume
+20
+Issue
+3
+Pages
+1062
+Publisher
+Menlo Park, CA; Cambridge, MA; London; AAAI Press; MIT Press; 1999
+Description
+This paper presents a method for inducing transformation rules that map natural-language sentences into a formal query or command language. The approach assumes a formal grammar for the target representation language and learns transformation rules that exploit the non-terminal symbols in this grammar. The learned transformation rules incrementally map a natural-language sentence or its syntactic parse tree into a parse-tree for the target formal language. Experimental results are presented for two corpora, one which maps English instructions into an existing formal coaching language for simulated RoboCup soccer agents, and another which maps English US-geography questions into a database query language. We show that our method performs overall better and faster than previous approaches in both domains.

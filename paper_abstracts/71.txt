@@ -1,0 +1,9 @@
+Integrating top-down and bottom-up approaches in inductive logic programming [electronic resource]: applications in natural language processing and relational data mining
+Authors
+Lap Poon Rupert Tang, Raymond J Mooney
+Publication date
+2006/1/27
+Publisher
+The University of Texas at Austin
+Description
+Inductive Logic Programming (ILP) is the intersection of Machine Learning and Logic Programming in which the learner's hypothesis space is the set of logic programs. There are two major ILP approaches: top-down and bottom-up. The former searches the hypothesis space from general to specific while the latter the other way round. Integrating both approaches has been demonstrated to be more effective. Integrated ILP systems were previously developed for two tasks: learning semantic parsers (CHILLIN), and mining relational data (PROGOL). Two new integrated ILP systems for these tasks that overcome limitations of existing methods will be presented.

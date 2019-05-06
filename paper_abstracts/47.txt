@@ -1,0 +1,10 @@
+Relational learning techniques for natural language information extraction
+Authors
+Mary Elaine Cali
+Publication date
+1998/8
+Institution
+PhD thesis, Tech. Rept. AI98-276, Artificial Intelligence Laboratory, The University of Texas at Austin
+Description
+There has been an explosive growth in the amount of information available on networked computers around the world, much of it in the form of natural language documents. An increasing variety of search engines exist for retrieving such documents using keywords; however, answering many questions about available information requires a deeper\understanding" of natural language. One way of providing more\understanding" is with information extraction. Information extraction is the task of locating speci c pieces of data from a natural language document, and has been the focus of DARPA's MUC program (Lehnert & Sundheim, 1991). The extracted information can then be stored in a database which could then be queried using either standard database query languages or a natural language database interface. An example of the information extraction task which was the focus of MUC-3 and MUC-4 appears in Figures 1.1 and 1.2. The goal was to extract information about Latin American terrorist incidents from news reports. Information extraction systems seem to be a promising way to deal with certain types of text documents. However, a di culty with information extraction systems is that they are di cult and time-consuming to build, and they generally contain highly domain-speci c components, making porting to new domains also time-consuming. Thus, more e cient means for developing information extraction systems are desirable.
+Recent research in computational linguistics indicates that empirical or corpus-based methods are currently the most promising approach to developing robust, e cient natural language processing (NLP) systems …

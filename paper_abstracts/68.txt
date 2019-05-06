@@ -1,0 +1,10 @@
+Applying ilp-based techniques to natural language information extraction: An experiment in relational learning
+Authors
+Mary Elaine Califf, Raymond J Mooney
+Publication date
+1997
+Journal
+Working Notes of the IJCAI-97 Workshop on Frontiers in Inductive Logic Programming
+Description
+In complex and context-rich domains, inductive logic programming ILP has some advantages over propositional, or feature-based, machine learning algorithms. The feature-based systems require that the examples be reduced to a finite, manageable set of features. Development of such a set of features can require significant representation engineering and may still exclude important contextual information. A first order logic representation can represent a richer set of features and more easily capture contextual information. ILP also allows the use of background knowledge, and the resulting rules are often more comprehensible. The comprehensibility of symbolic rules makes it easier for the system developer to understand and verify the resulting system and perhaps even edit the learned knowledge Cohen, 1996.
+One domain with the complexity to make relational learning preferable to feature-based learning is natural language processing NLP. Detailed experimental comparisons of ILP and feature-based induction have demonstrated the advantages of relational representations in two language related tasks, text categorization Cohen, 1995 and generating the past tense of an English verb Mooney and Califf, 1995.

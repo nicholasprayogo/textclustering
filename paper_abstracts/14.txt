@@ -1,0 +1,15 @@
+Natural logic and natural language inference
+Authors
+Bill MacCartney, Christopher D Manning
+Publication date
+2014
+Book
+Computing Meaning
+Volume
+4
+Pages
+129-147
+Publisher
+Springer Netherlands
+Description
+We propose a model of natural language inference which identifies valid inferences by their lexical and syntactic features, without full semantic interpretation. We extend past work in natural logic, which has focused on semantic containment and monotonicity, by incorporating both semantic exclusion and implicativity. Our model decomposes an inference problem into a sequence of atomic edits linking premise to hypothesis; predicts a lexical entailment relation for each edit; propagates these relations upward through a semantic composition tree according to properties of intermediate nodes; and joins the resulting entailment relations across the edit sequence. A computational implementation of the model achieves 70 % accuracy and 89 % precision on the FraCaS test suite. Moreover, including this model as a component in an existing system yields significant performance gains on the Recognizing Textual

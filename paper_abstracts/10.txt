@@ -1,0 +1,11 @@
+Natural language grammar induction using a constituent-context model
+Authors
+Dan Klein, Christopher D Manning
+Publication date
+2002
+Conference
+Advances in neural information processing systems
+Pages
+35-42
+Description
+This paper presents a novel approach to the unsupervised learning of syntactic analyses of natural language text. Most previous work has focused on maximizing likelihood according to generative PCFG models. In contrast, we employ a simpler probabilistic model over trees based directly on constituent identity and linear context, and use an EM-like iterative procedure to induce structure. This method produces much higher quality analyses, giving the best published results on the ATIS dataset.

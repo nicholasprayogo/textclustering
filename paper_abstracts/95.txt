@@ -1,0 +1,7 @@
+A Natural Language Processing Framework for Assessing Hospital Readmissions for Patients With COPD
+
+Authors
+Ankur Agarwal ; Christopher Baechle  ; Ravi Behara ; Xingquan Zhu
+View All Authors
+Abstract:
+With the passage of recent federal legislation, many medical institutions are now responsible for reaching target hospital readmission rates. Chronic diseases account for many hospital readmissions and chronic obstructive pulmonary disease has been recently added to the list of diseases for which the United States government penalizes hospitals incurring excessive readmissions. Though there have been efforts to statistically predict those most in danger of readmission, a few have focused primarily on unstructured clinical notes. We have proposed a framework, which uses natural language processing to analyze clinical notes and predict readmission. Many algorithms within the field of data mining and machine learning exist, so a framework for component selection is created to select the best components. Naïve Bayes using Chi-Squared feature selection offers an AUC of 0.690 while maintaining fast computational times.

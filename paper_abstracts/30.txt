@@ -1,0 +1,11 @@
+Natural language generation with vocabulary constraints
+Authors
+Ben Swanson, Elif Yamangil, Eugene Charniak
+Publication date
+2014
+Journal
+Proceedings of the Ninth Workshop on Innovative Use of NLP for Building Educational Applications
+Pages
+124-133
+Description
+We investigate data driven natural language generation under the constraints that all words must come from a fixed vocabulary and a specified word must appear in the generated sentence, motivated by the possibility for automatic generation of language education exercises. We present fast and accurate approximations to the ideal rejection samplers for these constraints and compare various sentence level generative language models. Our best systems produce output that is with high frequency both novel and error free, which we validate with human and automatic evaluations.

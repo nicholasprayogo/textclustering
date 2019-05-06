@@ -1,0 +1,5 @@
+Clinical Natural Language Processing in languages other than English: opportunities and challenges
+Authors:
+Aurélie Névéol, Hercules Dalianis, Sumithra Velupillai, Guergana Savova and Pierre Zweigenbaum
+Abstract:
+Natural language processing applied to clinical text or aimed at a clinical outcome has been thriving in recent years. This paper offers the first broad overview of clinical Natural Language Processing (NLP) for languages other than English. Recent studies are summarized to offer insights and outline opportunities in this area.

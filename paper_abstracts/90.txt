@@ -1,0 +1,4 @@
+Population-Based Analysis of Histologically Confirmed Melanocytic Proliferations Using Natural Language Processing
+Authors:
+Jason P. Lott, MD, MHS, MSHP1; Denise M. Boudreau, PhD2,3; Ray L. Barnhill, MD, PhD4; et al
+ Population-based information on the distribution of histologic diagnoses associated with skin biopsies is unknown. Electronic medical records (EMRs) enable automated extraction of pathology report data to improve our epidemiologic understanding of skin biopsy outcomes, specifically those of melanocytic origin.

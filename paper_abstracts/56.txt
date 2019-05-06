@@ -1,0 +1,9 @@
+Learning to parse natural language database queries into logical form
+Authors
+Cynthia A Thompson, Raymond J Mooney, Lappoon R Tang
+Publication date
+1997
+Journal
+Workshop on Automata Induction, Grammatical Inference and Language Acquisition
+Description
+For most natural language processing tasks, a parser that maps sentences into a semantic representation is significantly more useful than a grammar or automata that simply recognizes syntactically wellformed strings. This paper reviews our work on using inductive logic programming methods to learn deterministic shift-reduce parsers that translate natural language into a semantic representation. We focus on the task of mapping database queries directly into executable logical form. An overview of the system is presented followed by recent experimental results on corpora of Spanish geography queries and English jobsearch queries.

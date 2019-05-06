@@ -1,0 +1,10 @@
+
+Bill MacCartney, Christopher D Manning
+Publication date
+2009/6
+Institution
+Stanford University
+Description
+Inference has been a central topic in artificial intelligence from the start, but while automatic methods for formal deduction have advanced tremendously, comparatively little progress has been made on the problem of natural language inference (NLI), that is, determining whether a natural language hypothesis h can justifiably be inferred from a natural language premise p. The challenges of NLI are quite different from those encountered in formal deduction: the emphasis is on informal reasoning, lexical semantic knowledge, and variability of linguistic expression. This dissertation explores a range of approaches to NLI, beginning with methods which are robust but approximate, and proceeding to progressively more precise approaches. We first develop a baseline system based on overlap between bags of words. Despite its extreme simplicity, this model achieves surprisingly good results on a standard NLI evaluation, the PASCAL RTE Challenge. However, its effectiveness is limited by its failure to represent semantic structure.
+To remedy this lack, we next introduce the Stanford RTE system, which uses typed dependency trees as a proxy for semantic structure, and seeks a low-cost alignment between trees for p and h, using a cost model which incorporates both lexical and structural matching costs. This system is typical of a category of approaches to NLI based on approximate graph matching. We argue, however, that such methods work best when the entailment decision is based, not merely on the degree of alignment, but also on global features of the aligned (p, h) pair motivated by semantic theory. Seeking still greater precision, we devote the 
+Modeling semantic containment and exclusion in natural language inference

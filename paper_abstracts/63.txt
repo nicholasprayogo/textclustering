@@ -1,0 +1,7 @@
+Integrating top-down and bottom-up approaches in inductive logic programming: applications in natural language processing and relational data mining
+Authors
+Lap Poon Rupert Tang
+Publication date
+2003
+Description
+Machine learning concerns with the question of how to construct computer programs that automatically improve with experience (aka learning algorithms)(Mitchell, 1997). Many a successful machine learning application has been developed in the past three, perhaps even five, decades of research, ranging from programs that can automatically translate a piece of text in one language to another, to programs that can read aloud a given piece of text, eg in English, to aid blind people, to data-mining programs that learn to detect fraudulent credit card transactions.

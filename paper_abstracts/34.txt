@@ -1,0 +1,14 @@
+Cheap and fast---but is it good?: evaluating non-expert annotations for natural language tasks
+Authors
+Rion Snow, Brendan O'Connor, Daniel Jurafsky, Andrew Y Ng
+Publication date
+2008/10/25
+Conference
+Proceedings of the conference on empirical methods in natural language processing
+Pages
+254-263
+Publisher
+Association for Computational Linguistics
+Description
+Human linguistic annotation is crucial for many natural language processing tasks but can be expensive and time-consuming. We explore the use of Amazon's Mechanical Turk system, a significantly cheaper and faster method for collecting annotations from a broad base of paid non-expert contributors over the Web. We investigate five tasks: affect recognition, word similarity, recognizing textual entailment, event temporal ordering, and word sense disambiguation. For all five, we show high agreement between Mechanical Turk non-expert annotations and existing gold standard labels provided by expert labelers. For the task of affect recognition, we also show that using non-expert labels for training machine learning algorithms can be as effective as using gold standard annotations from experts. We propose a technique for bias correction that significantly improves annotation quality on two tasks. We conclude that 
+Do multi-sense embeddings improve natural language understanding?

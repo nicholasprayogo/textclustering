@@ -1,0 +1,5 @@
+Supporting Annotation Layers for Natural Language Processing
+Authors
+Archana Ganapathi, Preslav Nakov, Ariel Schwartz, Marti Hearst
+Description
+This paper proposes a simple mechanism for supporting multiple overlapping layers of annotations for natural language text processing. We present a query language for flexibly accessing annotated text, and demonstrate its use on examples taken from the NLP literature. We then report on experiments comparing different storage and indexing architectures using an RDBMS, showing that annotation-based queries can be made to scale to large corpora with many layers of annotations.

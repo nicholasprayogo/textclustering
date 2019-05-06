@@ -1,0 +1,17 @@
+Natural Language Translation at the Intersection of AI and HCI
+Authors
+Spence Green, Jeffrey Heer, Christopher D Manning
+Publication date
+2015/8/24
+Journal
+Communications of the ACM
+Volume
+58
+Issue
+9
+Pages
+46-53
+Publisher
+ACM
+Description
+THE FIELDS OF artificial intelligence (AI) and humancomputer interaction (HCI) are influencing each other like never before. Widely used systems such as Google Translate, Facebook Graph Search, and RelateIQ hide the complexity of large-scale AI systems behind intuitive interfaces. But relations were not always so auspicious. The two fields emerged at different points in the history of computer science, with different influences, ambitions, and attendant biases. AI aimed to construct a rival, and perhaps a successor, to the human intellect. Early AI researchers such as McCarthy, Minsky, and Shannon were mathematicians by training, so theorem-proving and formal models were attractive research directions. In contrast, HCI focused more on empirical approaches to usability and human factors, both of which generally aim to make machines more useful to humans. Many attendees at the first CHI conference in 1983 

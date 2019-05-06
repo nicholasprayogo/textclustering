@@ -1,0 +1,9 @@
+Symbolic machine learning for natural language processing
+Authors
+Raymond J Mooney, Claire Cardie
+Publication date
+1999
+Journal
+ACL’99 Tutorial
+Description
+Page 1. 1 Symbolic Machine Learning for Natural Language Processing Raymond J. Mooney Department of Computer Sciences University of Texas at Austin Page 2. 2 Introduction Page 3. 3 Empirical Natural Language Processing •Building large, robust natural-language processing (NLP) systems by hand is a difficult and arduous task requiring the engineering of large amounts of lexical, syntactic, semantic, and pragmatic knowledge. •Recently there has been a significant increase in research on learning for natural language by using empirical data (corpora) to help automate the development of NLP systems. •Most of this research has relied on statistical methods that originated in speech recognition and represent and reason with explicit probabilities (eg HMMs, PCFGs). Page 4. 4 Symbolic Machine Learning •Symbolic machine learning methods acquire non-numerical

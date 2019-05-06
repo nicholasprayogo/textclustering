@@ -1,0 +1,11 @@
+Utexas: Natural language semantics using distributional semantics and probabilistic logic
+Authors
+Islam Beltagy, Stephen Roller, Gemma Boleda, Katrin Erk, Raymond Mooney
+Publication date
+2014
+Journal
+Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014)
+Pages
+796-801
+Description
+We represent natural language semantics by combining logical and distributional information in probabilistic logic. We use Markov Logic Networks (MLN) for the RTE task, and Probabilistic Soft Logic (PSL) for the STS task. The system is evaluated on the SICK dataset. Our best system achieves 73% accuracy on the RTE task, and a Pearson’s correlation of 0.71 on the STS task.

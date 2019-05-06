@@ -1,0 +1,5 @@
+Natural language processing of raw text data for optimal sentence boundary placement. Raw text is extracted from a document and subject to cleaning. The extracted raw text is examined to identify preliminary sentence boundaries, which are used to identify potential sentences in the raw text. One or more potential sentences are assigned a well-formedness score. A value of the score correlates to whether the potential sentence is a truncated/ill-formed sentence or a well-formed sentence. One or more preliminary sentence boundaries are optimized depending on the value of the score of the potential sentence(s). Accordingly, the processing herein is an optimization that creates a sentence boundary optimized output.
+
+Authors:Simon Mezgec, Tome Eftimov, Tamara Bucher and Barbara Koroušic Seljak
+Abstract:
+The present study tested the combination of an established and a validated food-choice research method (the ‘fake food buffet’) with a new food-matching technology to automate the data collection and analysis.

@@ -1,0 +1,9 @@
+Guiding a reinforcement learner with natural language advice: Initial results in RoboCup soccer
+Authors
+Gregory Kuhlmann, Peter Stone, Raymond Mooney, Jude Shavlik
+Publication date
+2004/7
+Journal
+The AAAI-2004 workshop on supervisory control of learning and adaptive systems
+Description
+We describe our current efforts towards creating a reinforcement learner that learns both from reinforcements provided by its environment and from human-generated advice. Our research involves two complementary components:(a) mapping advice expressed in English to a formal advice language and (b) using advice expressed in a formal notation in a reinforcement learner. We use a subtask of the challenging RoboCup simulated soccer task (Noda et al. 1998) as our testbed.

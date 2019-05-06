@@ -1,0 +1,11 @@
+Automatic construction of semantic lexicons for learning natural language interfaces
+Authors
+Cynthia A Thompson, Raymond J Mooney
+Publication date
+1999/7/18
+Conference
+AAAI/IAAI
+Pages
+487-493
+Description
+This paper describes a system, Wolfie (WOrd Learning From Interpreted Examples), that acquires a semantic lexicon from a corpus of sentences paired with semantic representations. The lexicon learned consists of words paired with meaning representations. Wolfie is part of an integrated system that learns to parse novel sentences into semantic representations, such as logical database queries. Experimental results are presented demonstrating Wolfie’s ability to learn useful lexicons for a database interface in four different natural languages. The lexicons learned by Wolfie are compared to those acquired by a similar system developed by Siskind (1996).
